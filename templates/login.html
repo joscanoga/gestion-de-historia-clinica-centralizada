@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<link href="{{url_for('static', filename = 'index.css')}}" rel="stylesheet">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<title>Inicio</title>
+
+</head>
+<body>
+    <div>
+        <h1><center>login</center></h1>
+    <form class="login-form" method="post">
+        <p class="login-text"></p>
+            <div>
+                <input type="text" name="userID" autofocus="true" required="true" placeholder="ID" />
+            </div>
+            <div><input type="password" name="password" required="true" placeholder="Password" /></div>
+            <div>
+                <div><label><input type="radio" name="tipo" value="Paciente">Paciente </label></div>
+                <div><label><input type="radio" name="tipo" value="Hospital">Hospital </label></div>
+                <div><label><input type="radio" name="tipo" value="Medico">Medico</label></div>
+            </div>
+            <div><input type="submit" name="Login" value="Login" class="login-submit" /></div>
+
+    </form>
+    <a href="#" class="login-forgot-pass">forgot password?</a>
+    </div>
+    <div>
+
+    </div>
+</body>
+</html>

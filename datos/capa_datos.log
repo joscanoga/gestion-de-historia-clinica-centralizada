@@ -1,3 +1,99 @@
 11:54:54 PM: DEBUG [Conexion.py:22] Conexion exitosa: <connection object at 0x000001AC62F45590; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
 11:54:54 PM: DEBUG [Conexion.py:35] se abrio el cursor exitosamente: <cursor object at 0x000001AC62F5BBA0; closed: 0>
 11:54:54 PM: DEBUG [Conexion.py:57] se han cerrado los objetos de conexion
+08:48:44 PM: DEBUG [Conexion.py:22] Conexion exitosa: <connection object at 0x0000029E4B132150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+08:48:44 PM: DEBUG [Conexion.py:35] se abrio el cursor exitosamente: <cursor object at 0x0000029E4B150D60; closed: 0>
+08:48:44 PM: DEBUG [Conexion.py:57] se han cerrado los objetos de conexion
+08:50:41 PM: DEBUG [Conexion.py:22] Conexion exitosa: <connection object at 0x00000207D2BB2150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+08:50:41 PM: DEBUG [Conexion.py:37] se abrio el cursor exitosamente: <cursor object at 0x00000207D2BD0D60; closed: 0>
+08:50:41 PM: DEBUG [Conexion.py:61] se han cerrado los objetos de conexion
+08:52:37 PM: DEBUG [Conexion.py:22] Conexion exitosa: <connection object at 0x0000021B3CEC2150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+08:52:37 PM: DEBUG [Conexion.py:37] se abrio el cursor exitosamente: <cursor object at 0x0000021B3CEE0D60; closed: 0>
+08:52:37 PM: DEBUG [Conexion.py:61] se han cerrado los objetos de conexion
+08:54:07 PM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x0000015E8DFE2150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+08:54:07 PM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x0000015E8E001D60; closed: 0>
+08:54:51 PM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x0000017CA5992150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+08:54:51 PM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x0000017CA59B0D60; closed: 0>
+08:55:37 PM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000001A56A1C2150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+08:55:37 PM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000001A56A1E0D60; closed: 0>
+09:00:08 PM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000001EDB91A2150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+09:00:08 PM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000001EDB91C0D60; closed: 0>
+09:00:48 PM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x0000013E33832150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+09:00:48 PM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x0000013E33850D60; closed: 0>
+09:01:10 PM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000001F67A8D2150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+09:01:10 PM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000001F67A8F1D60; closed: 0>
+09:01:33 PM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x00000290504C2150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+09:01:33 PM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x00000290504E0D60; closed: 0>
+09:06:03 PM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x00000216E83B2150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+09:06:03 PM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x00000216E83D0D60; closed: 0>
+09:07:23 PM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000002A0F1522150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+09:07:23 PM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000002A0F153FD60; closed: 0>
+01:25:39 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000001D56DCA7150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+01:25:39 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000001D56DCC4C80; closed: 0>
+01:26:37 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x00000215FFE36150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+01:26:37 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x00000215FFE54C80; closed: 0>
+01:27:17 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000001F992666150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+01:27:17 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000001F992684C80; closed: 0>
+01:27:26 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000001890F896150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+01:27:26 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000001890F8B4C80; closed: 0>
+01:28:36 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000001A3FAA96150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+01:28:36 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000001A3FAAB4C80; closed: 0>
+01:28:50 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x0000022553DF7150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+01:28:50 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x0000022553E14C80; closed: 0>
+01:31:55 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000001EACB616150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+01:31:55 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000001EACB634C80; closed: 0>
+01:32:24 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x0000018B46EB7150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+01:32:24 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x0000018B46ED4C80; closed: 0>
+01:32:42 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x0000020F55B57150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+01:32:42 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x0000020F55B74C80; closed: 0>
+01:53:17 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x00000142CC896150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+01:53:17 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x00000142CC8B4C80; closed: 0>
+01:53:53 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000002973EB37150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+01:53:53 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000002973EB54C80; closed: 0>
+01:56:13 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x0000026D4C8D7150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+01:56:13 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x0000026D4C8F4C80; closed: 0>
+01:57:03 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x0000022F36FE7150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+01:57:03 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x0000022F37004C80; closed: 0>
+01:58:44 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x0000018CCB957150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+01:58:44 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x0000018CCB974C80; closed: 0>
+01:59:10 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x0000020F225F7150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+01:59:10 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x0000020F22614C80; closed: 0>
+02:04:36 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x0000012444F77150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+02:04:36 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x0000012444F94C80; closed: 0>
+02:08:49 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000001856B757150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+02:08:49 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000001856B774C80; closed: 0>
+02:19:34 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x00000218CDEB8150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+02:19:34 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x00000218CDED6C80; closed: 0>
+02:20:31 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000001A944998150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+02:20:31 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000001A9449B6C80; closed: 0>
+02:21:15 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x00000138DB9A8150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+02:21:15 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x00000138DB9C6C80; closed: 0>
+02:22:37 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x0000019007958150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+02:22:37 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x0000019007976C80; closed: 0>
+02:24:30 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x00000222B4BD8150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+02:24:30 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x00000222B4BF5C80; closed: 0>
+02:24:44 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000001C30DAB8150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+02:24:44 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000001C30DAD6C80; closed: 0>
+02:25:13 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000001A627898150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+02:25:13 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000001A6278B5C80; closed: 0>
+02:31:19 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x0000019B4A8C8150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+02:31:19 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x0000019B4A8E6C80; closed: 0>
+02:36:19 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000001CBD8688150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+02:36:19 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000001CBD86A6C80; closed: 0>
+02:36:51 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000001ACB6748150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+02:36:51 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000001ACB6766C80; closed: 0>
+03:15:00 AM: DEBUG [Conexion.py:25] Conexion exitosa: <connection object at 0x0000017063BF0150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+03:15:00 AM: DEBUG [Conexion.py:40] se abrio el cursor exitosamente: <cursor object at 0x0000017063C0D9E0; closed: 0>
+03:15:00 AM: DEBUG [Conexion.py:64] se han cerrado los objetos de conexion
+04:28:28 AM: DEBUG [Conexion.py:25] Conexion exitosa: <connection object at 0x000001D9F4C0A150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+04:28:28 AM: DEBUG [Conexion.py:40] se abrio el cursor exitosamente: <cursor object at 0x000001D9F4C28C80; closed: 0>
+04:30:21 AM: DEBUG [Conexion.py:25] Conexion exitosa: <connection object at 0x0000014B8A6F9150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+04:30:21 AM: DEBUG [Conexion.py:40] se abrio el cursor exitosamente: <cursor object at 0x0000014B8A718C80; closed: 0>
+04:37:28 AM: DEBUG [Conexion.py:25] Conexion exitosa: <connection object at 0x0000016119F29150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+04:37:28 AM: DEBUG [Conexion.py:40] se abrio el cursor exitosamente: <cursor object at 0x0000016119F48C80; closed: 0>
+04:39:48 AM: DEBUG [Conexion.py:25] Conexion exitosa: <connection object at 0x000001379D2BA150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+04:39:48 AM: DEBUG [Conexion.py:40] se abrio el cursor exitosamente: <cursor object at 0x000001379D2EB040; closed: 0>
+05:07:20 AM: DEBUG [Conexion.py:25] Conexion exitosa: <connection object at 0x000002DB181DB150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+05:07:20 AM: DEBUG [Conexion.py:40] se abrio el cursor exitosamente: <cursor object at 0x000002DB1820E040; closed: 0>
+05:10:47 AM: DEBUG [Conexion.py:25] Conexion exitosa: <connection object at 0x00000232AC9FB150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+05:10:47 AM: DEBUG [Conexion.py:40] se abrio el cursor exitosamente: <cursor object at 0x00000232ACA2E040; closed: 0>

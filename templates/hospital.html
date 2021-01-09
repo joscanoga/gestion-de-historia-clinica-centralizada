@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>paciente</title>
+</head>
+<body>
+<h1>Hospital</h1>
+<table><!-- mostrar datos de usuario-->
+    {% for d in datos %}
+<tr>
+  <td width="100px">{{ d }}</td>
+  <td>{{ datos[d] }}</td>
+    {% endfor %}
+</tr>
+
+
+
+</table>
+<table>
+    <tr><td><button>Añadir medico </button></td></tr>
+    <tr><td><button>cambiar contraseña </button></td></tr>
+    <tr><td><button >mostrar observaciones</button></td></tr>
+    <tr><td><a href="{{ url_for('logout') }}">cerrar seccion </a></td></tr>
+</table>
+</body>
+</html>

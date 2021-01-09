@@ -3,6 +3,7 @@ from datos.logger import logger
 import sys
 
 class Conexion:
+    #falta configurar para que datos de conexion sean recibidos por medio de un json
     __user = "postgres"
     __password = "960524"
     __host = "127.0.0.1"
@@ -10,6 +11,8 @@ class Conexion:
     __database = "prueba"
     __conexion = None
     __cursor=None
+
+
     @classmethod
     def obtenerConexion(cls):
         if cls.__conexion is None:
@@ -26,6 +29,8 @@ class Conexion:
                 sys.exit()
         else:
             return cls.__conexion
+
+
     @classmethod
     def obtenerCursor(cls):
         if cls.__cursor is None:
@@ -39,6 +44,8 @@ class Conexion:
                 sys.exit()
         else:
             return cls.__cursor
+
+
 
     @classmethod
     def cerrar(cls):
@@ -56,8 +63,7 @@ class Conexion:
                 logger.error("error al cerrar la conexion: {}".format(e))
         logger.debug("se han cerrado los objetos de conexion")
 
-print(Conexion.obtenerCursor())
-Conexion.cerrar()
+
 
 
 

@@ -1,0 +1,577 @@
+09:24:50 PM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000001EED72F79D0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+09:24:50 PM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000001EED7373E40; closed: 0>
+09:24:51 PM: INFO [_internal.py:113]  * Debugger PIN: 306-432-976
+09:24:51 PM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+09:24:51 PM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x00000150C48787B0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+09:24:51 PM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x00000150C48F1F20; closed: 0>
+09:24:56 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 21:24:56] "[37mGET / HTTP/1.1[0m" 200 -
+09:24:56 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 21:24:56] "[37mGET /session HTTP/1.1[0m" 200 -
+09:25:12 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 21:25:12] "[37mGET / HTTP/1.1[0m" 200 -
+09:25:13 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 21:25:13] "[37mGET /session HTTP/1.1[0m" 200 -
+09:26:43 PM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\app.py', reloading
+09:26:43 PM: INFO [_internal.py:113]  * Restarting with stat
+09:27:59 PM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x0000017ECD046AE0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+09:27:59 PM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x0000017ECD205120; closed: 0>
+09:27:59 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 21:27:59] "[37mGET / HTTP/1.1[0m" 200 -
+09:27:59 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 21:27:59] "[37mGET /session HTTP/1.1[0m" 200 -
+09:28:14 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 21:28:14] "[37mPOST /session HTTP/1.1[0m" 200 -
+09:30:35 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 21:30:35] "[37mGET / HTTP/1.1[0m" 200 -
+09:30:35 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 21:30:35] "[37mGET /session HTTP/1.1[0m" 200 -
+09:30:42 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 21:30:42] "[32mPOST /session HTTP/1.1[0m" 302 -
+09:30:42 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 21:30:42] "[37mGET /session HTTP/1.1[0m" 200 -
+09:36:43 PM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\app.py', reloading
+09:36:45 PM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+09:36:45 PM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x0000020A1BA35590; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+09:36:45 PM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x0000020A1BAAEF20; closed: 0>
+09:44:37 PM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\app.py', reloading
+09:44:39 PM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+09:44:39 PM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000002395AFC67B0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+09:44:39 PM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000002395B034F20; closed: 0>
+09:54:22 PM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000002223E5F59D0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+09:54:22 PM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000002223E67BE40; closed: 0>
+09:54:23 PM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+09:54:23 PM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000001E4561377B0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+09:54:23 PM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000001E4561AFF20; closed: 0>
+10:37:15 PM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\app.py', reloading
+10:37:16 PM: INFO [_internal.py:113]  * Restarting with stat
+10:37:22 PM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+10:37:22 PM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000002B9143068C0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+10:37:22 PM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000002B91437FE40; closed: 0>
+10:42:40 PM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\app.py', reloading
+10:42:40 PM: INFO [_internal.py:113]  * Restarting with stat
+10:42:41 PM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+10:42:41 PM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000001833B435480; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+10:42:41 PM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000001833B4AEE40; closed: 0>
+10:42:48 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:42:48] "[37mGET / HTTP/1.1[0m" 200 -
+10:42:48 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:42:48] "[35m[1mGET /session HTTP/1.1[0m" 500 -
+10:42:49 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:42:49] "[37mGET /session?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+10:42:49 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:42:49] "[37mGET /session?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+10:42:49 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:42:49] "[37mGET /session?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+10:42:49 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:42:49] "[37mGET /session?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+10:42:49 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:42:49] "[37mGET /session?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+10:43:08 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:43:08] "[37mGET / HTTP/1.1[0m" 200 -
+10:43:09 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:43:09] "[35m[1mGET /session HTTP/1.1[0m" 500 -
+10:43:09 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:43:09] "[37mGET /session?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+10:43:09 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:43:09] "[37mGET /session?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+10:43:09 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:43:09] "[37mGET /session?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+10:43:09 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:43:09] "[37mGET /session?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+10:43:09 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:43:09] "[37mGET /session?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+10:43:23 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:43:23] "[37mGET / HTTP/1.1[0m" 200 -
+10:43:24 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:43:24] "[37mGET /session HTTP/1.1[0m" 200 -
+10:43:33 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:43:33] "[32mPOST /session HTTP/1.1[0m" 302 -
+10:43:33 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:43:33] "[37mGET /session HTTP/1.1[0m" 200 -
+10:44:30 PM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\app.py', reloading
+10:44:30 PM: INFO [_internal.py:113]  * Restarting with stat
+10:44:31 PM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+10:44:31 PM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x0000025960515480; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+10:44:31 PM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000002596058EE40; closed: 0>
+10:44:32 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:44:32] "[37mGET / HTTP/1.1[0m" 200 -
+10:44:32 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:44:32] "[35m[1mGET /session HTTP/1.1[0m" 500 -
+10:44:33 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:44:33] "[37mGET /session?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+10:44:33 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:44:33] "[37mGET /session?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+10:44:33 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:44:33] "[37mGET /session?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+10:44:33 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:44:33] "[37mGET /session?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+10:44:33 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:44:33] "[37mGET /session?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+10:45:12 PM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\app.py', reloading
+10:45:12 PM: INFO [_internal.py:113]  * Restarting with stat
+10:45:14 PM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+10:45:14 PM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000001AFDC565590; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+10:45:14 PM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000001AFDC5DEE40; closed: 0>
+10:45:19 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:45:19] "[37mGET / HTTP/1.1[0m" 200 -
+10:45:19 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:45:19] "[32mGET /session HTTP/1.1[0m" 302 -
+10:45:19 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:45:19] "[35m[1mGET /Paciente HTTP/1.1[0m" 500 -
+10:45:20 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:45:20] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+10:45:20 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:45:20] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+10:45:20 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:45:20] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+10:45:20 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:45:20] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+10:45:20 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:45:20] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+10:45:28 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:45:28] "[37mGET / HTTP/1.1[0m" 200 -
+10:45:29 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:45:29] "[32mGET /session HTTP/1.1[0m" 302 -
+10:45:29 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:45:29] "[35m[1mGET /Paciente HTTP/1.1[0m" 500 -
+10:45:29 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:45:29] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+10:45:29 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:45:29] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+10:45:29 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:45:29] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+10:45:29 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:45:29] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+10:45:29 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:45:29] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+10:45:43 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:45:43] "[37mGET / HTTP/1.1[0m" 200 -
+10:45:49 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:45:49] "[32mPOST /session HTTP/1.1[0m" 302 -
+10:45:49 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:45:49] "[32mGET /session HTTP/1.1[0m" 302 -
+10:45:49 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:45:49] "[35m[1mGET /Paciente HTTP/1.1[0m" 500 -
+10:45:49 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:45:49] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+10:45:49 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:45:49] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+10:45:49 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:45:49] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+10:45:49 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:45:49] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+10:45:49 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 22:45:49] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+11:00:18 PM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\app.py', reloading
+11:00:18 PM: INFO [_internal.py:113]  * Restarting with stat
+11:00:19 PM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x0000022BC74559D0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+11:00:19 PM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x0000022BC74D7F20; closed: 0>
+11:00:19 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:00:19] "[37mGET / HTTP/1.1[0m" 200 -
+11:00:20 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:00:20] "[32mGET /session HTTP/1.1[0m" 302 -
+11:00:20 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:00:20] "[35m[1mGET /Paciente HTTP/1.1[0m" 500 -
+11:00:20 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:00:20] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+11:00:20 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:00:20] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+11:00:20 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:00:20] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+11:00:20 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:00:20] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+11:00:21 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:00:21] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+11:01:30 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:01:30] "[37mGET / HTTP/1.1[0m" 200 -
+11:01:30 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:01:30] "[32mGET /session HTTP/1.1[0m" 302 -
+11:01:30 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:01:30] "[35m[1mGET /Paciente HTTP/1.1[0m" 500 -
+11:01:30 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:01:30] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+11:01:30 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:01:30] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+11:01:30 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:01:30] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+11:01:30 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:01:30] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+11:01:30 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:01:30] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+11:01:43 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:01:43] "[37mGET / HTTP/1.1[0m" 200 -
+11:01:43 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:01:43] "[32mGET /session HTTP/1.1[0m" 302 -
+11:01:43 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:01:43] "[35m[1mGET /Paciente HTTP/1.1[0m" 500 -
+11:01:43 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:01:43] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+11:01:43 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:01:43] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+11:01:43 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:01:43] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+11:01:44 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:01:44] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+11:01:44 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:01:44] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+11:03:01 PM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\app.py', reloading
+11:03:01 PM: INFO [_internal.py:113]  * Restarting with stat
+11:03:02 PM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+11:03:02 PM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000001D650DA67B0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+11:03:02 PM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000001D650E20E40; closed: 0>
+11:03:03 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:03:03] "[37mGET / HTTP/1.1[0m" 200 -
+11:03:03 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:03:03] "[32mGET /session HTTP/1.1[0m" 302 -
+11:03:03 PM: INFO [_internal.py:113] 127.0.0.1 - - [08/Jan/2021 23:03:03] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+11:03:44 PM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\app.py', reloading
+11:03:44 PM: INFO [_internal.py:113]  * Restarting with stat
+11:03:45 PM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+11:03:45 PM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000002CEEB9C6480; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+11:03:45 PM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000002CEEBA3FE40; closed: 0>
+12:02:57 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\app.py', reloading
+12:02:57 AM: INFO [_internal.py:113]  * Restarting with stat
+12:03:01 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000001676CFA69D0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+12:03:01 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000001676D02AE40; closed: 0>
+12:04:26 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 00:04:26] "[37mGET / HTTP/1.1[0m" 200 -
+12:04:27 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 00:04:27] "[32mGET /session HTTP/1.1[0m" 302 -
+12:04:27 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 00:04:27] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+12:05:11 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 00:05:11] "[37mGET / HTTP/1.1[0m" 200 -
+12:05:11 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 00:05:11] "[32mGET /session HTTP/1.1[0m" 302 -
+12:05:11 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 00:05:11] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+12:07:24 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 00:07:24] "[37mGET / HTTP/1.1[0m" 200 -
+12:07:24 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 00:07:24] "[32mGET /session HTTP/1.1[0m" 302 -
+12:07:24 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 00:07:24] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+12:08:12 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 00:08:12] "[37mGET / HTTP/1.1[0m" 200 -
+12:08:12 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 00:08:12] "[32mGET /session HTTP/1.1[0m" 302 -
+12:08:13 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 00:08:13] "[35m[1mGET /Paciente HTTP/1.1[0m" 500 -
+12:08:14 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 00:08:14] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+12:08:14 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 00:08:14] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+12:08:14 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 00:08:14] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+12:08:14 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 00:08:14] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+12:08:14 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 00:08:14] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+12:08:45 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 00:08:45] "[37mGET / HTTP/1.1[0m" 200 -
+12:08:45 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 00:08:45] "[32mGET /session HTTP/1.1[0m" 302 -
+12:08:45 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 00:08:45] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+12:25:02 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\app.py', reloading
+12:25:02 AM: INFO [_internal.py:113]  * Restarting with stat
+12:25:05 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+12:25:05 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000001F22CEB66A0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+12:25:05 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000001F22CF2EE40; closed: 0>
+12:30:11 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\app.py', reloading
+12:30:11 AM: INFO [_internal.py:113]  * Restarting with stat
+12:30:14 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x00000236DBB659D0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+12:30:14 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x00000236DBBE9E40; closed: 0>
+12:59:43 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\datos\\UsuarioDao.py', reloading
+12:59:43 AM: INFO [_internal.py:113]  * Restarting with stat
+01:04:33 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 01:04:33] "[37mGET / HTTP/1.1[0m" 200 -
+01:04:33 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 01:04:33] "[32mGET /session HTTP/1.1[0m" 302 -
+01:04:33 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 01:04:33] "[35m[1mGET /Paciente HTTP/1.1[0m" 500 -
+01:04:33 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 01:04:33] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+01:04:33 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 01:04:33] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+01:04:33 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 01:04:33] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+01:04:33 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 01:04:33] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+01:04:33 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 01:04:33] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+01:06:29 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 01:06:29] "[37mGET / HTTP/1.1[0m" 200 -
+01:06:29 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 01:06:29] "[32mGET /session HTTP/1.1[0m" 302 -
+01:06:29 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 01:06:29] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+01:08:34 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 01:08:34] "[37mGET / HTTP/1.1[0m" 200 -
+01:08:34 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 01:08:34] "[32mGET /session HTTP/1.1[0m" 302 -
+01:08:34 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 01:08:34] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+01:21:31 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\datos\\UsuarioDao.py', reloading
+01:21:31 AM: INFO [_internal.py:113]  * Restarting with stat
+01:22:37 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\datos\\UsuarioDao.py', reloading
+01:22:37 AM: INFO [_internal.py:113]  * Restarting with stat
+01:22:39 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+01:23:17 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\datos\\UsuarioDao.py', reloading
+01:23:17 AM: INFO [_internal.py:113]  * Restarting with stat
+01:23:18 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+01:25:39 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\datos\\UsuarioDao.py', reloading
+01:25:39 AM: INFO [_internal.py:113]  * Restarting with stat
+01:25:40 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+01:25:40 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x0000029EED0C67B0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+01:25:40 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x0000029EED1E0040; closed: 0>
+01:26:37 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\datos\\UsuarioDao.py', reloading
+01:26:37 AM: INFO [_internal.py:113]  * Restarting with stat
+01:26:39 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+01:26:39 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000001C6D6255150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+01:26:39 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000001C6D6370040; closed: 0>
+02:15:03 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:15:03] "[35m[1mGET / HTTP/1.1[0m" 500 -
+02:15:03 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:15:03] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02:15:03 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:15:03] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02:15:03 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:15:03] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02:15:04 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:15:04] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+02:15:04 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:15:04] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02:15:04 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:15:04] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02:15:45 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:15:45] "[37mGET / HTTP/1.1[0m" 200 -
+02:15:45 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:15:45] "[32mGET /session HTTP/1.1[0m" 302 -
+02:15:45 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:15:45] "[35m[1mGET /Paciente HTTP/1.1[0m" 500 -
+02:15:45 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:15:45] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02:15:45 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:15:45] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02:15:45 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:15:45] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02:15:46 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:15:46] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02:15:46 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:15:46] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+02:15:46 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\datos\\UsuarioDao.py', reloading
+02:15:46 AM: INFO [_internal.py:113]  * Restarting with stat
+02:15:49 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+02:15:49 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x00000238A93766A0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+02:15:49 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x00000238A9492040; closed: 0>
+02:19:35 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\datos\\UsuarioDao.py', reloading
+02:19:35 AM: INFO [_internal.py:113]  * Restarting with stat
+02:19:36 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+02:19:36 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000001E3A48B6150; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+02:19:36 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000001E3A49CF040; closed: 0>
+02:37:16 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:37:16] "[35m[1mGET / HTTP/1.1[0m" 500 -
+02:37:17 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:37:17] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02:37:17 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:37:17] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02:37:17 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:37:17] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02:37:17 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:37:17] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+02:37:17 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:37:17] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02:37:17 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:37:17] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02:37:21 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:37:21] "[37mGET / HTTP/1.1[0m" 200 -
+02:37:21 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:37:21] "[32mGET /session HTTP/1.1[0m" 302 -
+02:37:21 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:37:21] "[35m[1mGET /Paciente HTTP/1.1[0m" 500 -
+02:37:21 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:37:21] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02:37:21 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:37:21] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02:37:21 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:37:21] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02:37:21 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:37:21] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02:37:21 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:37:21] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+02:37:22 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\datos\\UsuarioDao.py', reloading
+02:37:22 AM: INFO [_internal.py:113]  * Restarting with stat
+02:37:24 AM: INFO [_internal.py:113]  * Debugger PIN: 306-432-976
+02:37:24 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+02:39:27 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\datos\\UsuarioDao.py', reloading
+02:39:27 AM: INFO [_internal.py:113]  * Restarting with stat
+02:39:28 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+02:40:05 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\app.py', reloading
+02:40:05 AM: INFO [_internal.py:113]  * Restarting with stat
+02:40:06 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+02:40:11 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:40:11] "[37mGET / HTTP/1.1[0m" 200 -
+02:40:11 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:40:11] "[32mGET /session HTTP/1.1[0m" 302 -
+02:40:11 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x00000265D468D9D0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+02:40:11 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x00000265D46C1C80; closed: 0>
+02:40:11 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:40:11] "[35m[1mGET /Paciente HTTP/1.1[0m" 500 -
+02:40:12 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:40:12] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02:40:12 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:40:12] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02:40:12 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:40:12] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02:40:12 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:40:12] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02:40:12 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:40:12] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+02:41:58 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\app.py', reloading
+02:41:58 AM: INFO [_internal.py:113]  * Restarting with stat
+02:41:59 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+02:42:00 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:42:00] "[37mGET / HTTP/1.1[0m" 200 -
+02:42:00 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:42:00] "[32mGET /session HTTP/1.1[0m" 302 -
+02:42:00 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x0000026951E039D0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+02:42:00 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x0000026951E32C80; closed: 0>
+02:42:00 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:42:00] "[35m[1mGET /Paciente HTTP/1.1[0m" 500 -
+02:42:01 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:42:01] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+02:42:01 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:42:01] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+02:42:01 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:42:01] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+02:42:01 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:42:01] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+02:42:01 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:42:01] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+02:42:21 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\app.py', reloading
+02:42:21 AM: INFO [_internal.py:113]  * Restarting with stat
+02:42:22 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+02:42:23 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:42:23] "[37mGET / HTTP/1.1[0m" 200 -
+02:42:23 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:42:23] "[32mGET /session HTTP/1.1[0m" 302 -
+02:42:23 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x0000027C5B5CD9D0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+02:42:23 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x0000027C5B600C80; closed: 0>
+02:42:23 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:42:23] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+02:42:40 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\app.py', reloading
+02:42:40 AM: INFO [_internal.py:113]  * Restarting with stat
+02:42:41 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+02:53:28 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:53:28] "[37mGET / HTTP/1.1[0m" 200 -
+02:53:29 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:53:29] "[37mGET /static/index.css HTTP/1.1[0m" 200 -
+02:53:29 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:53:29] "[32mGET /session HTTP/1.1[0m" 302 -
+02:53:29 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x000001A828A5F9D0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+02:53:29 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x000001A828A92C80; closed: 0>
+02:53:29 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 02:53:29] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+03:00:02 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\datos\\UsuarioDao.py', reloading
+03:00:02 AM: INFO [_internal.py:113]  * Restarting with stat
+03:00:05 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:00:05] "[37mGET / HTTP/1.1[0m" 200 -
+03:00:05 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:00:05] "[32mGET /session HTTP/1.1[0m" 302 -
+03:00:05 AM: DEBUG [Conexion.py:24] Conexion exitosa: <connection object at 0x0000028D2B6D39D0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+03:00:05 AM: DEBUG [Conexion.py:39] se abrio el cursor exitosamente: <cursor object at 0x0000028D2B6EAC80; closed: 0>
+03:00:05 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:00:05] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+03:06:58 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\datos\\Conexion.py', reloading
+03:06:58 AM: INFO [_internal.py:113]  * Restarting with stat
+03:07:04 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:07:04] "[37mGET / HTTP/1.1[0m" 200 -
+03:07:04 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:07:04] "[32mGET /session HTTP/1.1[0m" 302 -
+03:07:04 AM: DEBUG [Conexion.py:25] Conexion exitosa: <connection object at 0x00000239DB3429D0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+03:07:04 AM: DEBUG [Conexion.py:40] se abrio el cursor exitosamente: <cursor object at 0x00000239DB359C80; closed: 0>
+03:07:04 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:07:04] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+03:09:05 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:09:05] "[37mGET / HTTP/1.1[0m" 200 -
+03:09:05 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:09:05] "[32mGET /session HTTP/1.1[0m" 302 -
+03:09:05 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:09:05] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+03:13:31 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:13:31] "[37mGET / HTTP/1.1[0m" 200 -
+03:13:31 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:13:31] "[32mGET /session HTTP/1.1[0m" 302 -
+03:13:31 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:13:31] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+03:13:33 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:13:33] "[32mGET /logout HTTP/1.1[0m" 302 -
+03:13:33 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:13:33] "[35m[1mGET /session HTTP/1.1[0m" 500 -
+03:13:34 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:13:34] "[37mGET /session?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+03:13:34 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:13:34] "[37mGET /session?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+03:13:34 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:13:34] "[37mGET /session?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+03:13:34 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:13:34] "[37mGET /session?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+03:13:34 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:13:34] "[37mGET /session?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+03:15:00 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\datos\\Conexion.py', reloading
+03:15:00 AM: INFO [_internal.py:113]  * Restarting with stat
+03:15:02 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+03:15:02 AM: DEBUG [Conexion.py:25] Conexion exitosa: <connection object at 0x000001448F9A56A0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+03:15:02 AM: DEBUG [Conexion.py:40] se abrio el cursor exitosamente: <cursor object at 0x000001448FAC0040; closed: 0>
+03:15:02 AM: DEBUG [Conexion.py:64] se han cerrado los objetos de conexion
+03:22:46 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:22:46] "[37mGET / HTTP/1.1[0m" 200 -
+03:22:46 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:22:46] "[37mGET /session HTTP/1.1[0m" 200 -
+03:22:56 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:22:56] "[35m[1mPOST /session HTTP/1.1[0m" 500 -
+03:22:57 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:22:57] "[37mGET /session?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+03:22:57 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:22:57] "[37mGET /session?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+03:22:57 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:22:57] "[37mGET /session?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+03:22:57 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:22:57] "[37mGET /session?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+03:22:57 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:22:57] "[37mGET /session?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+03:23:13 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:23:13] "[37mGET / HTTP/1.1[0m" 200 -
+03:23:13 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:23:13] "[37mGET /session HTTP/1.1[0m" 200 -
+03:23:24 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:23:24] "[35m[1mPOST /session HTTP/1.1[0m" 500 -
+03:23:24 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:23:24] "[37mGET /session?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+03:23:24 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:23:24] "[37mGET /session?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+03:23:24 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:23:24] "[37mGET /session?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+03:23:24 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:23:24] "[37mGET /session?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+03:23:24 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:23:24] "[37mGET /session?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+03:23:41 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\datos\\Conexion.py', reloading
+03:23:41 AM: INFO [_internal.py:113]  * Restarting with stat
+03:23:42 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+03:23:43 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:23:43] "[37mGET / HTTP/1.1[0m" 200 -
+03:23:43 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:23:43] "[37mGET /session HTTP/1.1[0m" 200 -
+03:23:47 AM: DEBUG [Conexion.py:25] Conexion exitosa: <connection object at 0x000002D8A18EA9D0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+03:23:47 AM: DEBUG [Conexion.py:40] se abrio el cursor exitosamente: <cursor object at 0x000002D8A1920BA0; closed: 0>
+03:23:47 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:23:47] "[32mPOST /session HTTP/1.1[0m" 302 -
+03:23:47 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:23:47] "[32mGET /session HTTP/1.1[0m" 302 -
+03:23:47 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:23:47] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+03:23:49 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:23:49] "[32mGET /logout HTTP/1.1[0m" 302 -
+03:23:49 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:23:49] "[37mGET /session HTTP/1.1[0m" 200 -
+03:40:18 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:40:18] "[37mGET / HTTP/1.1[0m" 200 -
+03:40:18 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:40:18] "[37mGET /session HTTP/1.1[0m" 200 -
+03:40:24 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:40:24] "[32mPOST /session HTTP/1.1[0m" 302 -
+03:40:24 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:40:24] "[32mGET /session HTTP/1.1[0m" 302 -
+03:40:24 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:40:24] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+03:43:41 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:43:41] "[37mGET / HTTP/1.1[0m" 200 -
+03:43:41 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:43:41] "[32mGET /session HTTP/1.1[0m" 302 -
+03:43:41 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:43:41] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+03:44:43 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:44:43] "[37mGET / HTTP/1.1[0m" 200 -
+03:44:43 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:44:43] "[32mGET /session HTTP/1.1[0m" 302 -
+03:44:43 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:44:43] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+03:45:16 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:45:16] "[37mGET / HTTP/1.1[0m" 200 -
+03:45:16 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:45:16] "[32mGET /session HTTP/1.1[0m" 302 -
+03:45:16 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:45:16] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+03:46:07 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:46:07] "[37mGET / HTTP/1.1[0m" 200 -
+03:46:07 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:46:07] "[32mGET /session HTTP/1.1[0m" 302 -
+03:46:07 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:46:07] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+03:46:59 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:46:59] "[37mGET / HTTP/1.1[0m" 200 -
+03:47:00 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:47:00] "[32mGET /session HTTP/1.1[0m" 302 -
+03:47:00 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:47:00] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+03:47:24 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:47:24] "[37mGET / HTTP/1.1[0m" 200 -
+03:47:24 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:47:24] "[32mGET /session HTTP/1.1[0m" 302 -
+03:47:24 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:47:24] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+03:55:26 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:55:26] "[37mGET / HTTP/1.1[0m" 200 -
+03:55:26 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:55:26] "[32mGET /session HTTP/1.1[0m" 302 -
+03:55:26 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:55:26] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+03:55:50 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:55:50] "[37mGET / HTTP/1.1[0m" 200 -
+03:55:50 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:55:50] "[32mGET /session HTTP/1.1[0m" 302 -
+03:55:50 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:55:50] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+03:56:37 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:56:37] "[37mGET / HTTP/1.1[0m" 200 -
+03:56:37 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:56:37] "[32mGET /session HTTP/1.1[0m" 302 -
+03:56:38 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:56:38] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+03:57:00 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:57:00] "[37mGET / HTTP/1.1[0m" 200 -
+03:57:00 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:57:00] "[32mGET /session HTTP/1.1[0m" 302 -
+03:57:00 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 03:57:00] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+04:00:02 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:00:02] "[37mGET / HTTP/1.1[0m" 200 -
+04:00:02 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:00:02] "[32mGET /session HTTP/1.1[0m" 302 -
+04:00:02 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:00:02] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+04:01:14 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:01:14] "[37mGET / HTTP/1.1[0m" 200 -
+04:01:14 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:01:14] "[32mGET /session HTTP/1.1[0m" 302 -
+04:01:14 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:01:14] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+04:01:16 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:01:16] "[32mGET /logout HTTP/1.1[0m" 302 -
+04:01:16 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:01:16] "[37mGET /session HTTP/1.1[0m" 200 -
+04:14:29 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\datos\\UsuarioDao.py', reloading
+04:14:29 AM: INFO [_internal.py:113]  * Restarting with stat
+04:14:34 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+04:26:33 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\datos\\UsuarioDao.py', reloading
+04:26:34 AM: INFO [_internal.py:113]  * Restarting with stat
+04:26:35 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+04:26:50 AM: DEBUG [Conexion.py:25] Conexion exitosa: <connection object at 0x0000021353809AE0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+04:26:50 AM: DEBUG [Conexion.py:40] se abrio el cursor exitosamente: <cursor object at 0x0000021353846D60; closed: 0>
+04:26:50 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:26:50] "[32mPOST /session HTTP/1.1[0m" 302 -
+04:26:50 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:26:50] "[32mGET /session HTTP/1.1[0m" 302 -
+04:26:50 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:26:50] "[35m[1mGET /hospital HTTP/1.1[0m" 500 -
+04:26:51 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:26:51] "[37mGET /hospital?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+04:26:51 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:26:51] "[37mGET /hospital?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+04:26:51 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:26:51] "[37mGET /hospital?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+04:26:51 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:26:51] "[37mGET /hospital?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+04:26:51 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:26:51] "[37mGET /hospital?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+04:28:28 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\datos\\UsuarioDao.py', reloading
+04:28:28 AM: INFO [_internal.py:113]  * Restarting with stat
+04:28:29 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+04:28:30 AM: DEBUG [Conexion.py:25] Conexion exitosa: <connection object at 0x000001BC8C1888C0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+04:28:30 AM: DEBUG [Conexion.py:40] se abrio el cursor exitosamente: <cursor object at 0x000001BC8C2A0200; closed: 0>
+04:40:15 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:40:15] "[35m[1mGET / HTTP/1.1[0m" 500 -
+04:40:15 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:40:15] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+04:40:15 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:40:15] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+04:40:15 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:40:15] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+04:40:15 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:40:15] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+04:40:16 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:40:16] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+04:40:16 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:40:16] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+04:40:21 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:40:21] "[37mGET / HTTP/1.1[0m" 200 -
+04:40:22 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:40:22] "[32mGET /session HTTP/1.1[0m" 302 -
+04:40:22 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:40:22] "[35m[1mGET /hospital HTTP/1.1[0m" 500 -
+04:40:22 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:40:22] "[37mGET /hospital?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+04:40:22 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:40:22] "[37mGET /hospital?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+04:40:22 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:40:22] "[37mGET /hospital?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+04:40:22 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:40:22] "[37mGET /hospital?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+04:40:22 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:40:22] "[37mGET /hospital?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+04:40:22 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\datos\\UsuarioDao.py', reloading
+04:40:22 AM: INFO [_internal.py:113]  * Restarting with stat
+04:40:24 AM: INFO [_internal.py:113]  * Debugger PIN: 306-432-976
+04:40:24 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+04:40:24 AM: DEBUG [Conexion.py:25] Conexion exitosa: <connection object at 0x000002613EE366A0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+04:40:24 AM: DEBUG [Conexion.py:40] se abrio el cursor exitosamente: <cursor object at 0x000002613EF492E0; closed: 0>
+04:41:00 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\app.py', reloading
+04:41:00 AM: INFO [_internal.py:113]  * Restarting with stat
+04:42:48 AM: DEBUG [Conexion.py:25] Conexion exitosa: <connection object at 0x000001976FBA6BF0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+04:42:48 AM: DEBUG [Conexion.py:40] se abrio el cursor exitosamente: <cursor object at 0x000001976FDEC4A0; closed: 0>
+04:42:48 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:42:48] "[37mGET / HTTP/1.1[0m" 200 -
+04:42:49 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:42:49] "[32mGET /session HTTP/1.1[0m" 302 -
+04:42:49 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:42:49] "[35m[1mGET /hospital HTTP/1.1[0m" 500 -
+04:42:49 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:42:49] "[37mGET /hospital?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+04:42:49 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:42:49] "[37mGET /hospital?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+04:42:49 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:42:49] "[37mGET /hospital?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+04:42:49 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:42:49] "[37mGET /hospital?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+04:42:49 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:42:49] "[37mGET /hospital?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+04:43:40 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\datos\\UsuarioDao.py', reloading
+04:43:41 AM: INFO [_internal.py:113]  * Restarting with stat
+04:43:42 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+04:43:42 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:43:42] "[37mGET / HTTP/1.1[0m" 200 -
+04:43:42 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:43:42] "[32mGET /session HTTP/1.1[0m" 302 -
+04:43:42 AM: DEBUG [Conexion.py:25] Conexion exitosa: <connection object at 0x00000248FBAAA370; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+04:43:42 AM: DEBUG [Conexion.py:40] se abrio el cursor exitosamente: <cursor object at 0x00000248FBAD4C80; closed: 0>
+04:43:42 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:43:42] "[37mGET /hospital HTTP/1.1[0m" 200 -
+04:47:41 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\datos\\UsuarioDao.py', reloading
+04:47:41 AM: INFO [_internal.py:113]  * Restarting with stat
+04:47:42 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+04:47:42 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:47:42] "[37mGET / HTTP/1.1[0m" 200 -
+04:47:42 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:47:42] "[32mGET /session HTTP/1.1[0m" 302 -
+04:47:42 AM: DEBUG [Conexion.py:25] Conexion exitosa: <connection object at 0x00000244B860A370; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+04:47:42 AM: DEBUG [Conexion.py:40] se abrio el cursor exitosamente: <cursor object at 0x00000244B8635C80; closed: 0>
+04:47:42 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:47:42] "[37mGET /hospital HTTP/1.1[0m" 200 -
+04:50:47 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\datos\\UsuarioDao.py', reloading
+04:50:47 AM: INFO [_internal.py:113]  * Restarting with stat
+04:50:48 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+04:57:39 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\datos\\UsuarioDao.py', reloading
+04:57:39 AM: INFO [_internal.py:113]  * Restarting with stat
+04:57:40 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+04:57:44 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:57:44] "[32mGET /logout HTTP/1.1[0m" 302 -
+04:57:44 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:57:44] "[37mGET /session HTTP/1.1[0m" 200 -
+04:57:51 AM: DEBUG [Conexion.py:25] Conexion exitosa: <connection object at 0x000002DDCD8F29D0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+04:57:51 AM: DEBUG [Conexion.py:40] se abrio el cursor exitosamente: <cursor object at 0x000002DDCD91CBA0; closed: 0>
+04:57:51 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:57:51] "[32mPOST /session HTTP/1.1[0m" 302 -
+04:57:51 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:57:51] "[32mGET /session HTTP/1.1[0m" 302 -
+04:57:51 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:57:51] "[35m[1mGET /Paciente HTTP/1.1[0m" 500 -
+04:57:52 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:57:52] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+04:57:52 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:57:52] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+04:57:52 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:57:52] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+04:57:52 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:57:52] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+04:57:52 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 04:57:52] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+04:59:37 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\datos\\UsuarioDao.py', reloading
+04:59:38 AM: INFO [_internal.py:113]  * Restarting with stat
+04:59:39 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+05:00:17 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:00:17] "[35m[1mGET / HTTP/1.1[0m" 500 -
+05:00:18 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:00:18] "[37mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05:00:18 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:00:18] "[37mGET /?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05:00:18 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:00:18] "[37mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05:00:18 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:00:18] "[37mGET /?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+05:00:18 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:00:18] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05:00:18 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:00:18] "[37mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05:02:38 AM: DEBUG [Conexion.py:25] Conexion exitosa: <connection object at 0x0000018F89C9A370; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+05:02:38 AM: DEBUG [Conexion.py:40] se abrio el cursor exitosamente: <cursor object at 0x0000018F89CBE900; closed: 0>
+05:02:38 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:02:38] "[37mGET / HTTP/1.1[0m" 200 -
+05:02:38 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:02:38] "[32mGET /session HTTP/1.1[0m" 302 -
+05:02:38 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:02:38] "[35m[1mGET /Paciente HTTP/1.1[0m" 500 -
+05:02:38 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:02:38] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05:02:38 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:02:38] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05:02:38 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:02:38] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05:02:38 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:02:38] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05:02:38 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:02:38] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+05:02:38 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\datos\\UsuarioDao.py', reloading
+05:02:38 AM: INFO [_internal.py:113]  * Restarting with stat
+05:02:40 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+05:02:40 AM: DEBUG [Conexion.py:25] Conexion exitosa: <connection object at 0x0000029C01DE37B0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+05:02:40 AM: DEBUG [Conexion.py:40] se abrio el cursor exitosamente: <cursor object at 0x0000029C01F4C2E0; closed: 0>
+05:03:24 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:03:24] "[37mGET / HTTP/1.1[0m" 200 -
+05:03:24 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:03:24] "[37mGET /session HTTP/1.1[0m" 200 -
+05:04:03 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:04:03] "[32mPOST /session HTTP/1.1[0m" 302 -
+05:04:03 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:04:03] "[32mGET /session HTTP/1.1[0m" 302 -
+05:04:03 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:04:03] "[35m[1mGET /Paciente HTTP/1.1[0m" 500 -
+05:04:04 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:04:04] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05:04:04 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:04:04] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05:04:04 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:04:04] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05:04:04 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:04:04] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05:04:04 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:04:04] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+05:10:47 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\app.py', reloading
+05:10:47 AM: INFO [_internal.py:113]  * Restarting with stat
+05:10:49 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+05:10:50 AM: DEBUG [Conexion.py:25] Conexion exitosa: <connection object at 0x00000231F06357B0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+05:10:50 AM: DEBUG [Conexion.py:40] se abrio el cursor exitosamente: <cursor object at 0x00000231F0750120; closed: 0>
+05:11:06 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:11:06] "[37mGET / HTTP/1.1[0m" 200 -
+05:11:06 AM: DEBUG [app.py:22] reconoce medico
+05:11:06 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:11:06] "[32mGET /session HTTP/1.1[0m" 302 -
+05:11:06 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:11:06] "[35m[1mGET /Paciente HTTP/1.1[0m" 500 -
+05:11:07 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:11:07] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05:11:07 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:11:07] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05:11:07 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:11:07] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05:11:07 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:11:07] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05:11:07 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:11:07] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+05:12:09 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\app.py', reloading
+05:12:09 AM: INFO [_internal.py:113]  * Restarting with stat
+05:12:10 AM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+05:12:10 AM: DEBUG [Conexion.py:25] Conexion exitosa: <connection object at 0x00000290949157B0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+05:12:10 AM: DEBUG [Conexion.py:40] se abrio el cursor exitosamente: <cursor object at 0x0000029094A31200; closed: 0>
+05:12:10 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:12:10] "[37mGET / HTTP/1.1[0m" 200 -
+05:12:10 AM: DEBUG [app.py:22] reconoce medico
+05:12:10 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:12:10] "[32mGET /session HTTP/1.1[0m" 302 -
+05:12:10 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:12:10] "[35m[1mGET /Paciente HTTP/1.1[0m" 500 -
+05:12:11 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:12:11] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 200 -
+05:12:11 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:12:11] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=jquery.js HTTP/1.1[0m" 200 -
+05:12:11 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:12:11] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 200 -
+05:12:11 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:12:11] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 200 -
+05:12:11 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:12:11] "[37mGET /Paciente?__debugger__=yes&cmd=resource&f=ubuntu.ttf HTTP/1.1[0m" 200 -
+05:13:54 AM: INFO [_internal.py:113]  * Detected change in 'E:\\repositorios\\Prueba Tecnica Backend Developer\\gestion-de-historia-clinica-centralizada\\app.py', reloading
+05:13:54 AM: INFO [_internal.py:113]  * Restarting with stat
+05:14:44 AM: DEBUG [Conexion.py:25] Conexion exitosa: <connection object at 0x000002F2B87E5BF0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+05:14:44 AM: DEBUG [Conexion.py:40] se abrio el cursor exitosamente: <cursor object at 0x000002F2B886EBA0; closed: 0>
+05:14:44 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:14:44] "[37mGET / HTTP/1.1[0m" 200 -
+05:14:45 AM: DEBUG [app.py:22] reconoce medico
+05:14:45 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:14:45] "[32mGET /session HTTP/1.1[0m" 302 -
+05:14:45 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:14:45] "[37mGET /medico HTTP/1.1[0m" 200 -
+05:15:56 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:15:56] "[37mGET / HTTP/1.1[0m" 200 -
+05:15:56 AM: DEBUG [app.py:22] reconoce medico
+05:15:56 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:15:56] "[32mGET /session HTTP/1.1[0m" 302 -
+05:15:56 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:15:56] "[37mGET /medico HTTP/1.1[0m" 200 -
+05:16:26 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:16:26] "[37mGET / HTTP/1.1[0m" 200 -
+05:16:26 AM: DEBUG [app.py:22] reconoce medico
+05:16:26 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:16:26] "[32mGET /session HTTP/1.1[0m" 302 -
+05:16:26 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:16:26] "[37mGET /medico HTTP/1.1[0m" 200 -
+05:21:17 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:21:17] "[37mGET / HTTP/1.1[0m" 200 -
+05:21:17 AM: DEBUG [app.py:22] reconoce medico
+05:21:17 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:21:17] "[32mGET /session HTTP/1.1[0m" 302 -
+05:21:17 AM: INFO [_internal.py:113] 127.0.0.1 - - [09/Jan/2021 05:21:17] "[37mGET /medico HTTP/1.1[0m" 200 -
