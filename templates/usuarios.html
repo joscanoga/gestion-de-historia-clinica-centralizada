@@ -5,7 +5,7 @@
     <link href="{{url_for('static', filename = 'menu.css')}}" rel="stylesheet">
     <title>{% block title %}{% endblock %}</title>
 </head>
-<body>
+<body style="background-color: #298DF4">
 <div id="side-menu" class="menu-collapsed"><!-- menu vertical-->
     <!-- cabecera-->
     <div id="header">
@@ -29,20 +29,28 @@
         <div class="item">
         <a href="#">
             <!--<div class="icon"><img src="menu.png" alt=""></div>-->
-            <div class="title"><span>ver observaciones</span></div>
+            <div class="title">
+                <div class="icon"><img src="{{ url_for('static',filename='obs.png') }}" alt=""></div>
+                <span>ver observaciones</span>
+            </div>
         </a>
     </div>
 
     <div class="item">
         <a href="#">
-            <!--<div class="icon"><img src="{{ url_for('static',filename='pss.png') }}" alt=""></div>-->
-            <div class="title"><span>cambiar contraseña</span></div>
+            <div class="title">
+                <div class="icon"><img src="{{ url_for('static',filename='pss.png') }}" alt=""></div>
+                <span>cambiar contraseña</span>
+            </div>
         </a>
     </div>
     <div class="item">
         <a href="{{ url_for('logout') }}">
-            <!--<div class="icon"><img src="menu.png" alt=""></div>-->
-            <div class="title"><span>cerrar seccion</span></div>
+
+            <div class="title">
+                <div class="icon"><img src="{{ url_for('static',filename='logout.png') }}" alt=""></div>
+                <span>cerrar seccion</span>
+            </div>
         </a>
     </div>
         {% block funciones %}{% endblock %}

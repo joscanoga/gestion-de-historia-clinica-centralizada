@@ -5,7 +5,7 @@ import sys
 class Conexion:
     #falta configurar para que datos de conexion sean recibidos por medio de un json
     __user = "postgres"
-    __password = "960524"
+    __password = ""
     __host = "127.0.0.1"
     __port = "5432"
     __database = "prueba"

@@ -1522,3 +1522,37 @@ psycopg2.InterfaceError: cursor already closed
 05:16:29 AM: DEBUG [app.py:19] reconoce medico
 05:16:29 AM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 05:16:29] "[32mGET / HTTP/1.1[0m" 302 -
 05:16:29 AM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 05:16:29] "[37mGET /medico HTTP/1.1[0m" 200 -
+12:20:12 PM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+12:20:17 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 12:20:17] "[37mGET / HTTP/1.1[0m" 200 -
+12:20:17 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 12:20:17] "[37mGET /static/style.css HTTP/1.1[0m" 200 -
+12:20:17 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 12:20:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+12:20:42 PM: DEBUG [Conexion.py:25] Conexion exitosa: <connection object at 0x000001F6192C59D0; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+12:20:42 PM: DEBUG [Conexion.py:40] se abrio el cursor exitosamente: <cursor object at 0x000001F619343580; closed: 0>
+12:20:42 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 12:20:42] "[32mPOST / HTTP/1.1[0m" 302 -
+12:20:43 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 12:20:43] "[32mGET / HTTP/1.1[0m" 302 -
+12:20:43 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 12:20:43] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+12:24:26 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 12:24:26] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+12:24:27 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 12:24:27] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+12:24:34 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 12:24:34] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+12:24:35 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 12:24:35] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+12:25:07 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 12:25:07] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+12:25:27 PM: INFO [_internal.py:113]  * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+12:25:28 PM: DEBUG [Conexion.py:25] Conexion exitosa: <connection object at 0x000001BC42902260; dsn: 'user=postgres password=xxx dbname=prueba host=127.0.0.1 port=5432', closed: 0>
+12:25:28 PM: DEBUG [Conexion.py:40] se abrio el cursor exitosamente: <cursor object at 0x000001BC42928AC0; closed: 0>
+12:25:28 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 12:25:28] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+12:25:29 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 12:25:29] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+12:56:16 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 12:56:16] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+12:56:17 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 12:56:17] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+12:56:37 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 12:56:37] "[32mGET /logout HTTP/1.1[0m" 302 -
+12:56:37 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 12:56:37] "[37mGET / HTTP/1.1[0m" 200 -
+12:56:38 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 12:56:38] "[37mPOST / HTTP/1.1[0m" 200 -
+12:56:41 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 12:56:41] "[37mGET / HTTP/1.1[0m" 200 -
+12:56:52 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 12:56:52] "[32mPOST / HTTP/1.1[0m" 302 -
+12:56:52 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 12:56:52] "[32mGET / HTTP/1.1[0m" 302 -
+12:56:52 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 12:56:52] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+12:58:11 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 12:58:11] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+01:00:13 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 13:00:13] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+01:11:48 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 13:11:48] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+01:11:48 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 13:11:48] "[37mGET /static/logout.png HTTP/1.1[0m" 200 -
+01:15:04 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 13:15:04] "[37mGET /Paciente HTTP/1.1[0m" 200 -
+01:15:04 PM: INFO [_internal.py:113] 127.0.0.1 - - [11/Jan/2021 13:15:04] "[37mGET /static/obs.png HTTP/1.1[0m" 200 -
