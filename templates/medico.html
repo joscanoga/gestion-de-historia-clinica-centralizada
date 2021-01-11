@@ -1,27 +1,15 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>medico</title>
-</head>
-<body>
-<h1>MEDICO</h1>
-<table><!-- mostrar datos de usuario-->
-    {% for d in datos %}
-<tr>
-  <td width="150px">{{ d }}</td>
-  <td>{{ datos[d] }}</td>
-    {% endfor %}
-</tr>
-
-
-
-</table>
-<table>
-    <tr><td><button>Añadir observacion </button></td></tr>
-    <tr><td><button>cambiar contraseña </button></td></tr>
-    <tr><td><button >mostrar observaciones</button></td></tr>
-    <tr><td><a href="{{ url_for('logout') }}">cerrar seccion </a></td></tr>
-</table>
-</body>
-</html>
+{% extends "usuarios.html" %}
+{% block title %}
+{{ datos["nombre"] }}
+{% endblock %}
+{% block tipo %}
+{{ session["tipo"] }}
+{% endblock %}
+{% block funciones %}
+<div class="item">
+        <a href="#">
+            <!--<div class="icon"><img src="{{ url_for('static',filename='') }}" alt=""></div>-->
+            <div class="title"><span>agregar observacion</span></div>
+        </a>
+    </div>
+{% endblock %}

@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+{% block body %}
+    <div class="login-page">
+  <div class="form">
+    <form class="register-form">
+        <input type="text" placeholder="name" />
+        <input type="password" placeholder="password" />
+        <input type="text" placeholder="email address" />
+        <select name="tipo" class="select" >
+            <option value="paciente">Paciente</option>
+            <option value="hospital">Hospital</option>
+        </select>
+      <button>create</button>
+      <p class="message">Already registered? <a href="#">Sign In</a></p>
+    </form>
+    <form class="login-form">
+
+
+      <input type="text" placeholder="ID" name="userId"/>
+      <input type="password" placeholder="password" name="password" />
+        <select name="tipo" >
+            <option value="paciente">Paciente</option>
+            <option value="hospital">Hospital</option>
+        </select>
+      <button>login</button>
+      <p class="message">Not registered? <a href="#">Create an account</a></p>
+    </form>
+      <script type="text/javascript" src="{{url_for('static', filename='jquery-3.1.1.min.js')}}"></script>
+    <script type="text/javascript" src="{{url_for('static', filename='fun.js')}}"></script>
+  </div>
+</div>
+
+{% endblock %}

@@ -1,26 +1,10 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>paciente</title>
-</head>
-<body>
-<h1>paciente</h1>
-<table><!-- mostrar datos de usuario-->
-    {% for d in datos %}
-<tr>
-  <td width="100px">{{ d }}</td>
-  <td>{{ datos[d] }}</td>
-    {% endfor %}
-</tr>
+{% extends "usuarios.html" %}
+{% block title %}
+{{ datos["nombre"] }}
+{% endblock %}
+{% block tipo %}
+{{ session["tipo"] }}
+{% endblock %}
+{% block funciones %}
 
-
-
-</table>
-<table>
-    <tr><td><button>cambiar contraseña </button></td></tr>
-    <tr><td><button >mostrar observaciones</button></td></tr>
-    <tr><td><a href="{{ url_for('logout') }}">cerrar seccion </a></td></tr>
-</table>
-</body>
-</html>
+{% endblock %}

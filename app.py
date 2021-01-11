@@ -8,14 +8,55 @@ app = Flask(__name__)
 app.secret_key="qwerty"
 
 
-@app.route('/')
+@app.route('/',methods=["GET","POST"])
 def index():
-    return render_template("index.html")
+    if "userID" in session:
+        if session["tipo"]=="paciente":
+            return redirect(url_for("paciente"))
+        elif session["tipo"]=="hospital":
+            return redirect(url_for("hospital"))
+        else :
+            logger.logger.debug("reconoce medico")
+            return redirect(url_for("medico"))
+    elif request.method=="POST" :
+        f=request.form
+        if UsuarioDao.autentificarUsuario(tipo=f["tipo"].lower(),id=f["userID"],password=f["password"]):
+            session['userID'] = f["userID"]
+            session['tipo']=f["tipo"].lower()
+            # agregar el usuario a la sesión
+
+            return redirect(url_for("index"))
+        else:
+            return "datos erroneos"
+    else:
+        return render_template("index.html")
+
+
+@app.route("/logout")
+def logout():
+    session.pop("userID")
+    session.pop("tipo")
+    return redirect(url_for("index"))
+
+
+@app.route("/registro")
+def registro():
+
+    return render_template("registro.html")
+
+
+
+
+
+
+
+
+
 @app.route("/session",methods=["Get","POST"])
 def sesion():
     if "userID" in session:
         if session["tipo"]=="paciente":
-            return redirect(url_for("pacienteIndex"))
+            return redirect(url_for("paciente"))
         elif session["tipo"]=="hospital":
             return redirect(url_for("hospital"))
         else :
@@ -39,10 +80,7 @@ def sesion():
 
 
 
-@app.route("/logout")
-def logout():
-    session.pop("userID")
-    return redirect(url_for("sesion"))
+
 
 
 @app.route("/register")
@@ -51,7 +89,7 @@ def register():
 
 
 @app.route("/Paciente")
-def pacienteIndex():#falta autentificar con contraseña encriptada
+def paciente():#falta autentificar con contraseña encriptada
     datos =json.loads(UsuarioDao.datosPacientes(id=session["userID"],tipo=session["tipo"]))["datos"]
 
     return render_template("paciente.html",datos=datos)

@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <link href="{{url_for('static', filename = 'menu.css')}}" rel="stylesheet">
+    <title>{% block title %}{% endblock %}</title>
+</head>
+<body>
+<div id="side-menu" class="menu-collapsed"><!-- menu vertical-->
+    <!-- cabecera-->
+    <div id="header">
+        <div id="title"><span>{% block tipo %}{% endblock %}</span></div>
+        <div id="menu-btn">
+        <div id="btn-hamburger"></div>
+        <div id="btn-hamburger"></div>
+        <div id="btn-hamburger"></div>
+        </div>
+    </div>
+    <div id="profile">
+        <!--<div id="photo"><img src="menu.png" alt=""></div>-->
+
+       {% for i in datos %}
+    <div id="name" style="font-size: 12px">{{ i  }}: &#09;{{ datos[i] }}</div>
+{% endfor %}
+
+
+    </div>
+    <div id="menu-items">
+        <div class="item">
+        <a href="#">
+            <!--<div class="icon"><img src="menu.png" alt=""></div>-->
+            <div class="title"><span>ver observaciones</span></div>
+        </a>
+    </div>
+
+    <div class="item">
+        <a href="#">
+            <!--<div class="icon"><img src="{{ url_for('static',filename='pss.png') }}" alt=""></div>-->
+            <div class="title"><span>cambiar contraseña</span></div>
+        </a>
+    </div>
+    <div class="item">
+        <a href="{{ url_for('logout') }}">
+            <!--<div class="icon"><img src="menu.png" alt=""></div>-->
+            <div class="title"><span>cerrar seccion</span></div>
+        </a>
+    </div>
+        {% block funciones %}{% endblock %}
+    </div>
+    <script>
+        const btn= document.querySelector("#menu-btn")
+        const menu=document.querySelector("#side-menu")
+        btn.addEventListener("click",evt => {
+            menu.classList.toggle("menu-expanded");
+            menu.classList.toggle("menu-collapsed");
+        })
+    </script>
+</div>
+
+
+</body>
+</html>

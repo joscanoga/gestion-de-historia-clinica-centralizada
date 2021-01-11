@@ -1,31 +1,24 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<link href="{{url_for('static', filename = 'index.css')}}" rel="stylesheet">
-	<meta http-equiv="X-UA-Compatible" content="IE=edge">
-	<title>Inicio</title>
+{% extends "base.html" %}
+{% block body %}
+    <div class="login-page">
+  <div class="form">
 
-</head>
-<body>
-	<header >
-		 <h1 ><center>Historia clinica</center><Gestor></h1>
-	</header><!-- /header -->
-	<div id="cuerpo">
-        <div id="indice">
-            <iframe src="{{url_for('sesion')}}" title="W3Schools Free Online Web Tutorials" width="300px" height="500px"></iframe>
+    <form class="login-form" method="post">
 
+        <p class="login-text">login</p>
+        <input type="text" placeholder="ID" name="userID"/>
+        <input type="password" placeholder="password" name="password" />
+        <select name="tipo" >
+            <option value="paciente">Paciente</option>
+            <option value="hospital">Hospital</option>
+            <option value="medico">Medico</option>
+        </select>
+        <div><input type="submit" name="Login" value="Login" class="login-submit" style="background: #43a047"/></div>
 
+      <p class="message">Not registered? <a href="{{ url_for("registro") }}">Create an account</a></p>
+    </form>
 
-        </div>
-       <div id="contenido"></div>
-      
-     
-        </div>
+  </div>
+</div>
 
-
-
-        
-    </div>
-</body>
-</html>
+{% endblock %}
