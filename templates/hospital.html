@@ -5,11 +5,21 @@
 {% block tipo %}
 {{ session["tipo"] }}
 {% endblock %}
+{% block linkobs %}{{ url_for("obsHospital") }}{% endblock %}
 {% block funciones %}
 <div class="item">
-        <a href="#">
-            <!--<div class="icon"><img src="{{ url_for('static',filename='') }}" alt=""></div>-->
-            <div class="title"><span>registrar medico</span></div>
+        <a href="{{ url_for("addMedico") }}">
+            <div class="title">
+                <div class="icon"><img src="{{ url_for('static',filename='registramed.png') }}" alt=""></div>
+                <span>registrar medico</span>
+            </div>
+
+
         </a>
     </div>
+{% endblock %}
+{% block contenido %}
+    {% endblock %}
+{% block cambioP %}
+{{ url_for("contrasenahos") }}
 {% endblock %}

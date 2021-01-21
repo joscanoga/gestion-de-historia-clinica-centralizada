@@ -1,0 +1,26 @@
+{% extends "paciente.html" %}
+{% block contenido %}
+   <center> <table BORDER="1">
+        <tr>
+            <th>ID</th>
+            <th>DESCRIPCION</th>
+            <th>ESPECIALIDAD</th>
+            <th>ID MEDICO</th>
+            <th>NOMBRE DEL MEDICO </th>
+            <th>NOMBRE DEL HOSPITAL</th>
+        </tr>
+         {% for dato in registros %}
+            <tr>
+                <td>{{ dato["id_observacion"] }}</td>
+                <td>{{ dato["observacion"] }}</td>
+                <td>{{ dato['especialidad'] }}</td>
+                <td>{{ dato[ 'id_medico'] }}</td>
+                <td>{{ dato['nombre_medico'] }} </td>
+                <td>{{ dato['nombre_hospital'] }}</td>
+            </tr>
+
+        {% endfor %}
+    </table></center>
+    <center><a href="{{ url_for("descargar") }}" target="_blank">descargar</a></center>
+
+{% endblock %}

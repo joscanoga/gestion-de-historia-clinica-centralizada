@@ -2,21 +2,35 @@
 {% block body %}
     <div class="login-page">
   <div class="form">
+          <form class="register-form" method="POST">
+                {{ formC.csrf_token }}
+
+        <h1><center>Recuperar contraseña</center></h1>
+              {{ formC.id }}
+              {{ formC.email }}
+              {{ formC.tipo }}
+              {{ formC.enviar }}
+
+
+      <p class="message"> <a href="#">iniciar seccion</a></p>
+    </form>
 
     <form class="login-form" method="post">
 
         <p class="login-text">login</p>
         <input type="text" placeholder="ID" name="userID"/>
         <input type="password" placeholder="password" name="password" />
-        <select name="tipo" >
+        <select name="tipo"  class="select-css" >
             <option value="paciente">Paciente</option>
             <option value="hospital">Hospital</option>
             <option value="medico">Medico</option>
         </select>
         <div><input type="submit" name="Login" value="Login" class="login-submit" style="background: #43a047"/></div>
-
-      <p class="message">Not registered? <a href="{{ url_for("registro") }}">Create an account</a></p>
+        <p class="message">olvido su contraseña? <a href="#">enviar una nueva</a></p>
+        <script type="text/javascript" src="{{url_for('static', filename='jquery-3.1.1.min.js')}}"></script>
+    <script type="text/javascript" src="{{url_for('static', filename='fun.js')}}"></script>
     </form>
+      <p class="message">No estas registrado? <a href="{{ url_for("registro") }}">Crea una cuenta</a></p>
 
   </div>
 </div>

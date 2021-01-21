@@ -1,0 +1,13 @@
+{% extends "paciente.html" %}
+
+{% block contenido %}
+    <link href="{{url_for('static', filename = 'style.css')}}" rel="stylesheet">
+    <div class="form">
+    <h1>nueva contraseña</h1>
+    <form method="POST">
+        {{ form.csrf_token }}
+        {{ form.contrasena }}
+        {{ form.enviar }}
+    </form>
+    </div>
+{% endblock %}

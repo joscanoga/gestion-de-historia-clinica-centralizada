@@ -5,6 +5,14 @@
 {% block tipo %}
 {{ session["tipo"] }}
 {% endblock %}
+{% block linkobs %}
+    {{ url_for("obsPaciente") }}
+{% endblock %}
 {% block funciones %}
 
+{% endblock %}
+ {% block contenido %}
+    {% endblock %}
+{% block cambioP %}
+{{ url_for("contrasenapac") }}
 {% endblock %}

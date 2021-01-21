@@ -1,14 +1,18 @@
 import psycopg2 as ps
+from flask import url_for
+
 from datos.logger import logger
 import sys
+import json
 
 class Conexion:
-    #falta configurar para que datos de conexion sean recibidos por medio de un json
-    __user = "postgres"
-    __password = ""
-    __host = "127.0.0.1"
-    __port = "5432"
-    __database = "prueba"
+    #los datos de conexion son recibidos por medio de un json
+    __datos_conexion=json.load(open("datos/conexion.json"))
+    __user = __datos_conexion["user"]
+    __password = __datos_conexion["password"]
+    __host = __datos_conexion["host"]
+    __port = __datos_conexion["port"]
+    __database = __datos_conexion["database"]
     __conexion = None
     __cursor=None
 

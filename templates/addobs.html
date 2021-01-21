@@ -1,0 +1,14 @@
+{% extends "medico.html" %}
+{% block contenido %}
+    <<link href="{{url_for('static', filename = 'style.css')}}" rel="stylesheet">
+    <div class="form">
+    <h1>Agregar observacion</h1>
+    <form method="POST">
+        {{ form.csrf_token }}
+        {{ form.paciente }}
+        {{ form.especialidad }}
+        {{ form.obserbacion }}
+        {{ form.agregar }}
+    </form>
+    </div>
+{% endblock %}

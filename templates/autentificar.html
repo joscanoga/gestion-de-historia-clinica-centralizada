@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block body %}
+    <div class="login-page">
+  <div class="form">
+
+
+    <form class="login-form" method="POST">
+        {{ form.csrf_token}}
+        <p>ingrese la clave enviada a su correo</p>
+        {{ form.clave }}
+        {{ form.validar }}
+
+    </form>
+      <p class="message"> <a href="#">desea cambiar el correo?</a></p>
+      <p class="message"> <a href="{{ url_for("logout") }}">desea cerrar seccion?</a></p>
+
+  </div>
+</div>
+
+{% endblock %}

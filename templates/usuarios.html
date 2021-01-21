@@ -27,7 +27,7 @@
     </div>
     <div id="menu-items">
         <div class="item">
-        <a href="#">
+        <a href="{% block linkobs %}{% endblock %}">
             <!--<div class="icon"><img src="menu.png" alt=""></div>-->
             <div class="title">
                 <div class="icon"><img src="{{ url_for('static',filename='obs.png') }}" alt=""></div>
@@ -37,7 +37,7 @@
     </div>
 
     <div class="item">
-        <a href="#">
+        <a href="{% block cambioP %}{% endblock %}">
             <div class="title">
                 <div class="icon"><img src="{{ url_for('static',filename='pss.png') }}" alt=""></div>
                 <span>cambiar contraseña</span>
@@ -63,6 +63,10 @@
             menu.classList.toggle("menu-collapsed");
         })
     </script>
+</div>
+<div >
+    {% block contenido %}
+    {% endblock %}
 </div>
 
 

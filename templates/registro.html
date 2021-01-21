@@ -2,31 +2,47 @@
 {% block body %}
     <div class="login-page">
   <div class="form">
-    <form class="register-form">
-        <input type="text" placeholder="name" />
-        <input type="password" placeholder="password" />
-        <input type="text" placeholder="email address" />
-        <select name="tipo" class="select" >
-            <option value="paciente">Paciente</option>
-            <option value="hospital">Hospital</option>
-        </select>
-      <button>create</button>
-      <p class="message">Already registered? <a href="#">Sign In</a></p>
+    <form class="register-form" method="POST">
+        {{ formH.csrf_token }}
+
+        <h1><center>Hospital</center></h1>
+
+        {{ formH.nombre()}}
+        {{ formH.id }}
+        {{ formH.contrasena }}
+        {{ formH.direccion }}
+        {{ formH.email }}
+        {{ formH.telefono }}
+        {{ formH.servicios }}
+        {{ formH.registrarse }}
+      <p class="message">no eres un hospital? <a href="#">registrate como paciente</a></p>
     </form>
-    <form class="login-form">
+    <form class="login-form" method="POST">
+        {{ formP.csrf_token }}
 
+        <h1><center>paciente</center></h1>
 
-      <input type="text" placeholder="ID" name="userId"/>
+        {{ formP.nombre()}}
+        {{ formP.id }}
+        {{ formP.contrasena }}
+        {{ formP.direccion }}
+        {{ formP.email }}
+        {{ formP.telefono }}
+        {{ formP.fecha_nacimieto }}
+        {{ formP.registrarse }}
+      <!--<input type="text" placeholder="ID" name="userId"/>
       <input type="password" placeholder="password" name="password" />
         <select name="tipo" >
             <option value="paciente">Paciente</option>
             <option value="hospital">Hospital</option>
         </select>
-      <button>login</button>
-      <p class="message">Not registered? <a href="#">Create an account</a></p>
-    </form>
-      <script type="text/javascript" src="{{url_for('static', filename='jquery-3.1.1.min.js')}}"></script>
+      <button>login</button>-->
+      <p class="message">no eres un paciente? <a href="#">registrarse como hospital</a></p>
+        <script type="text/javascript" src="{{url_for('static', filename='jquery-3.1.1.min.js')}}"></script>
     <script type="text/javascript" src="{{url_for('static', filename='fun.js')}}"></script>
+    </form>
+
+      <p class="message">ya tienes una cuenta? <a href="{{ url_for("index") }}">iniciar seccion</a></p>
   </div>
 </div>
 
